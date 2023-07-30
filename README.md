@@ -1,10 +1,4 @@
 # Accident-Severity-Prediction 
-The target feature is Accident_severity which is a multi-class variable. 
-
-The task is to classify this variable based on the other 31 features step-by-step by going through each day's task. 
-
-The metric for evaluation will be f1-score.
-The f1-score is 0.88
 
 ## Getting started
 
