@@ -1,0 +1,10 @@
+pandas==1.5.2
+numpy==1.24.1
+streamlit==1.25.0
+scikit-learn==1.2.2
+joblib==1.2.0
+matplotlib==3.6.3
+ipython==8.13.2
+Pillow==9.4.0
+dabl==0.2.5
+imblearn==0.0
